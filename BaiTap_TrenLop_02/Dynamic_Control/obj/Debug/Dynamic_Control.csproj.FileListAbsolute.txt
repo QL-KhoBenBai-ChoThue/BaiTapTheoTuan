@@ -1,0 +1,9 @@
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\bin\Debug\Dynamic_Control.exe.config
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\bin\Debug\Dynamic_Control.exe
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\bin\Debug\Dynamic_Control.pdb
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\obj\Debug\Dynamic_Control.csprojResolveAssemblyReference.cache
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\obj\Debug\Dynamic_Control.Form1.resources
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\obj\Debug\Dynamic_Control.Properties.Resources.resources
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\obj\Debug\Dynamic_Control.csproj.GenerateResource.Cache
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\obj\Debug\Dynamic_Control.exe
+C:\Users\THANH THANG\Desktop\Lập trình Win Nâng cao\BTTL\BaiTap_TrenLop\Dynamic_Control\obj\Debug\Dynamic_Control.pdb
