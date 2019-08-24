@@ -1,0 +1,11 @@
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\bin\Debug\BaiTapTuan2.exe.config
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\bin\Debug\BaiTapTuan2.exe
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\bin\Debug\BaiTapTuan2.pdb
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.csprojResolveAssemblyReference.cache
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.Controls_Container.resources
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.Properties.Resources.resources
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.csproj.GenerateResource.Cache
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.exe
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.pdb
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.frmDeQuy.resources
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.b4.resources
