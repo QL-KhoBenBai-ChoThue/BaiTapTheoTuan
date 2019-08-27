@@ -9,3 +9,4 @@ D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.exe
 D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.pdb
 D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.frmDeQuy.resources
 D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.b4.resources
+D:\HỌC\Windows_NC\BaiTapTuan2\BaiTapTuan2\obj\Debug\BaiTapTuan2.Caro.resources

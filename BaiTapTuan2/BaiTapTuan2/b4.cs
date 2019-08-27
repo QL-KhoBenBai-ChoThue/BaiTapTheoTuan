@@ -24,70 +24,64 @@ namespace BaiTapTuan2
         {
             
             int n = int.Parse(txt_n.Text.ToString()) * 2;
+
             arr = new int[n];
 
             Random r = new Random();
-            int oo = n / 2;
-            int pp = 1;
-            for (int i = 0; i < n; i=i+2)
-            {
-                arr[i] = pp;
-                arr[i + 1] = pp;
-                pp++;
-            }
 
             for (int i = 0; i < n/2; i++)
             {
-                int a = r.Next(n);
-                int b = r.Next(n);
-                int aa = arr[a];
-                arr[a] = arr[b];
-                arr[b] = aa;
+                arr[i] = i;
+                arr[n/2+i] = i;
+
+                //0=0,1=1,2=2
+                //3=0,4=1,5=2
             }
+                 
+            //random
+            hoanViMang(arr, n);
 
             int k = n / 6;
             int m = n % 6;
-            int o = 0;
-            if (m > 0) k = k + 1;
+            int name = 0;
 
-            for (int i = 0; i < k; i++)
-            {              
+            if (m > 0) k = k + 1;
+            for (int i = 0; i < k; i++)                         
                 for (int j = 0; j < 6; j++)
-                {
-                    o++;
-                    CheckBox p;
-                    p = new CheckBox();
+                {                                     
+                    CheckBox p = new CheckBox();
                     //p.Location = new System.Drawing.Point(0, 0);
                     p.Top = i*90;
                     p.Left = j*90;
-                    p.Name =o.ToString();
+                    p.Name =name.ToString();
                     p.Size = new System.Drawing.Size(90, 90);
-                    p.Text = "Click me";
+                    
+                    p.Text = arr[name].ToString();
+
                     p.Appearance = System.Windows.Forms.Appearance.Button;
-                    p.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-                    p.Click += p_Click;
+                    p.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;                 
                     panel1.Controls.Add(p);
 
-                    if (o == n) break;
-                }
+                    name++; 
+                    if (name == n) break;
+                }          
+        }
+
+        //random
+        void hoanViMang(int[] a, int n)
+        {
+            Random r = new Random();
+            int index, temp;
+            for(int i = 0; i < n-1; i++)
+            {
+                index = i + 1 + r.Next(n-1-i);
+                //0+1+r(9)
+                //2+r(8)
+                //3+r(7)
+                temp = a[i];
+                a[i] = a[index];
+                a[index] = temp;
             }
-        }
-
-        void p_Click(object sender, EventArgs e)
-        {
-            //int n = int.Parse(this.Name.ToString());
-            MessageBox.Show("");
-        }
-
-        //private void p_Click(object sender, EventArgs e)
-        //{
-        //    int n = int.Parse(p.Name.ToString());
-        //    p.Text = arr[n].ToString();
-        //}
-
-        private void checkBox1_Click(object sender, EventArgs e)
-        {
-            checkBox1.Text = "222";
         }
     }
 }

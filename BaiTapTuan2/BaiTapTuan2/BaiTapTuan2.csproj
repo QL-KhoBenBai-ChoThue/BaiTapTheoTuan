@@ -50,6 +50,12 @@
     <Compile Include="b4.Designer.cs">
       <DependentUpon>b4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Caro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caro.Designer.cs">
+      <DependentUpon>Caro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Controls_Container.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="b4.resx">
       <DependentUpon>b4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caro.resx">
+      <DependentUpon>Caro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Controls_Container.resx">
       <DependentUpon>Controls_Container.cs</DependentUpon>
